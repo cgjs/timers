@@ -21,12 +21,12 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cgjs/cgjs-timers.git"
+    "url": "git+https://github.com/cgjs/timers.git"
   },
   "bugs": {
-    "url": "https://github.com/cgjs/cgjs-timers/issues"
+    "url": "https://github.com/cgjs/timers/issues"
   },
-  "homepage": "https://github.com/cgjs/cgjs-timers#readme",
+  "homepage": "https://github.com/cgjs/timers#readme",
   "dependencies": {
     "cgjs": "^0.1.3"
   }
